@@ -1,4 +1,5 @@
 [![Email](https://img.shields.io/badge/ksi05298@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:ksi05298@gmail.com)
+[![Notion](https://img.shields.io/badge/Notion-Profile-black?style=flat-square&logo=notion&logoColor=white)](https://snowy-roadway-768.notion.site/e12e20c5b0a0466ea8dccaf54a142057?pvs=4)
 
 
 👋 Hi there! I'm infra engineer
