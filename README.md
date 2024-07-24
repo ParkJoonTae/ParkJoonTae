@@ -1,4 +1,4 @@
-[![Email](https://img.shields.io/badge/ksi05298@gmail.com-white?style=flat-square&logo=gmail)](mailto:ksi05298@gmail.com)
+[![Email](https://img.shields.io/badge/ksi05298@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:ksi05298@gmail.com)
 
 
 👋 Hi there! I'm infra engineer
